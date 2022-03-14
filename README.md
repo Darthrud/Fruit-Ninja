@@ -1,2 +1,1 @@
-# Fruit-Ninja
-Fruit Ninja?
+# project-template-C19
